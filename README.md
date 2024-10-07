@@ -9,7 +9,7 @@
 <div align="center">
        
 
-[![Discord Presence]([https://lanyard-profile-readme.vercel.app/api/637985724007841812?theme=dark&bg=none&animated=true&ignoreAppId=1071763435005685900&showDisplayName=true)](https://discord.com/users/637985724007841812)<br>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/637985724007841812?theme=dark&bg=none&animated=true&ignoreAppId=1071763435005685900&showDisplayName=true)](https://discord.com/users/637985724007841812)<br>
  </a>
  ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=barkeser2002&cover_image=true&theme=default&show_offline=true&background_color=none&interchange=false&bar_color=b30000&bar_color_cover=false)
 </div>
